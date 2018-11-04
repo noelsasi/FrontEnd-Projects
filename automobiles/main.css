@@ -1,0 +1,148 @@
+html
+ {
+  background-color: #581845;
+ }
+body {
+font-family: Trebuchet MS, sans-serif;
+  margin: 0;
+  font-size: 1em;
+  width: 100%;
+  line-height: 1.5em;
+  height: 110%;
+}
+
+h1 {
+  text-align-last: center;
+  font-size: 48px;
+  padding-left: 20px;
+  text-transform: uppercase;
+  color:#FF5733;
+  font-family: Blippo, fantasy;
+}
+
+h2 {
+  font-size: 28px;
+  padding-left: 10px;
+  color: #157FB8;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 18px;
+  padding-left: 20px;
+  color: #059C91;
+}
+
+img{
+  padding-left: 10px;
+  width: 100%;
+  height: auto;
+}
+
+video{
+  height: 400px;
+  padding-left: 80px;
+}
+
+#main{
+background-color: white;
+padding: 0em 1em 1em;
+padding-top: 10px;
+}
+
+#foot{
+  background-color: #581845;
+  text-align: center;
+  color: white;
+  font-size: 0.85em;
+  
+}
+
+#menu{
+  list-style-type:
+  margin:0;
+  padding:0;
+  overflow: hidden;
+}
+
+#items{
+  float: left;
+}
+#sr{
+  padding-left: 20px;
+}
+.n{
+  text-transform: none;
+  padding-left: 50px;
+}
+
+.name{
+  width: 258px;
+  height: 41px;
+  padding-left: 18px;
+  background-color: #E6EAE4;
+  border-style: none;
+}
+.email{
+  width: 258px;
+  height: 41px;
+  padding-left: 18px;
+  background-color: #E6EAE4;
+  border-style: none;
+}
+.text{
+  width: 572px;
+  padding-bottom: 174px;
+  padding-left: 10px;
+  padding-top: 10px;
+  background-color: #E6EAE4;
+  border-style: none;
+  }
+
+#form{
+  padding-left: 50px;
+}
+.submit{
+  border-color: #BB2314;
+  background-color: white;
+  height: 42px;
+  width: 100px;
+  border-radius: 2px;
+
+}
+#sub{
+  padding-left: 480px;
+}
+
+nav ul{
+  margin : 0; 
+  padding: 0px; 
+  padding-left: 350px;
+   } 
+  nav ul li{
+  list-style-type:none;
+  float: left; 
+  display: block;
+  width: 150px;
+  height: 60px;
+  text-align: center;
+  line-height: 55px;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 17px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: #FFF;
+}
+
+.active, nav ul li:hover{
+  background :#0D0C0C;
+  height:55px;
+}
+#navbar{
+       
+  height: 55px;
+  background-color:#F72B44;
+
+}
